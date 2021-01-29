@@ -1,0 +1,1 @@
+@py.exe C:\Users\account\Documents\github\learning\automate-the-boring-stuff\scriptsAndPrograms\l38-mapit.py %*

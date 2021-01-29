@@ -1,0 +1,759 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"py",
+				"pyperclip"
+			],
+			[
+				"err",
+				"errorFile"
+			],
+			[
+				"sub",
+				"subfolder"
+			],
+			[
+				"fold",
+				"folderName"
+			],
+			[
+				"fol",
+				"folderName"
+			],
+			[
+				"she",
+				"shelfFile"
+			],
+			[
+				"shel",
+				"shelfFile"
+			],
+			[
+				"app",
+				"appleFile"
+			],
+			[
+				"bacon",
+				"baconFile"
+			],
+			[
+				"hel",
+				"helloFile"
+			],
+			[
+				"ext",
+				"extractedEmail"
+			],
+			[
+				"phone",
+				"phoneNumber"
+			],
+			[
+				"ex",
+				"extracted"
+			],
+			[
+				"email",
+				"emailRegex"
+			],
+			[
+				"re",
+				"redacted4"
+			],
+			[
+				"red",
+				"redacted2"
+			],
+			[
+				"dot",
+				"dotDotStar"
+			],
+			[
+				"non",
+				"nongreedy"
+			],
+			[
+				"nam",
+				"nameRegex"
+			],
+			[
+				"at",
+				"atRegex"
+			],
+			[
+				"b",
+				"beginCondition"
+			],
+			[
+				"vow",
+				"vowelRegex"
+			],
+			[
+				"do",
+				"doubleVowels"
+			],
+			[
+				"bat",
+				"batRegex"
+			],
+			[
+				"ph",
+				"phoneNumberRegex"
+			],
+			[
+				"foun",
+				"foundNumber"
+			],
+			[
+				"low",
+				"low-R"
+			],
+			[
+				"mid",
+				"mid-R"
+			],
+			[
+				"top",
+				"top-R"
+			],
+			[
+				"sec",
+				"secretNumber"
+			],
+			[
+				"guess",
+				"guessesTaken"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"an",
+				"answerNumber"
+			],
+			[
+				"Do",
+				"Dot11ProbeResp"
+			],
+			[
+				"eth",
+				"eth0"
+			],
+			[
+				"par",
+				"parsed_args"
+			],
+			[
+				"sou",
+				"soup_word_p"
+			],
+			[
+				"img",
+				"imgs_set"
+			],
+			[
+				"imgs",
+				"imgs_href"
+			],
+			[
+				"Bea",
+				"BeautifulSoup"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"cla",
+				"classifier"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"plt",
+				"plt"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"resha",
+				"reshapedb"
+			],
+			[
+				"cal",
+				"calculate_something"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"curr",
+				"currency2"
+			],
+			[
+				"paddin",
+				"padding-right\tproperty"
+			],
+			[
+				"list-style",
+				"list-style-type\tproperty"
+			],
+			[
+				"l",
+				"line"
+			],
+			[
+				"filename",
+				"filename_out"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"weight",
+				"weight_str"
+			],
+			[
+				"he",
+				"height_str"
+			],
+			[
+				"we",
+				"weight_str"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"fe",
+				"fetcher"
+			],
+			[
+				"next",
+				"next_button"
+			],
+			[
+				"ne",
+				"next_button"
+			],
+			[
+				"seelc",
+				"select_one"
+			],
+			[
+				"by",
+				"bypass_station"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"sho",
+				"show_station"
+			],
+			[
+				"pin",
+				"pin"
+			],
+			[
+				"with",
+				"withdraw"
+			],
+			[
+				"Thi",
+				"ThisIsTooLongSeriouslyTooooLong"
+			],
+			[
+				"sev",
+				"several_words"
+			],
+			[
+				"sa",
+				"Saigon"
+			],
+			[
+				"S",
+				"Saigon"
+			],
+			[
+				"studen",
+				"student"
+			],
+			[
+				"cart",
+				"cart_prices"
+			],
+			[
+				"spl",
+				"splitted"
+			],
+			[
+				"line",
+				"line_split"
+			],
+			[
+				"lin",
+				"line_split"
+			],
+			[
+				"muti",
+				"multi_print"
+			],
+			[
+				"multi",
+				"multi_print"
+			],
+			[
+				"mult",
+				"multi_print2"
+			],
+			[
+				"mutl",
+				"multi_print"
+			],
+			[
+				"con",
+				"continents"
+			],
+			[
+				"coi",
+				"continent"
+			],
+			[
+				"contine",
+				"continent"
+			],
+			[
+				"lis",
+				"list_with_weight"
+			],
+			[
+				"stude",
+				"students_as_string"
+			],
+			[
+				"age",
+				"age_3"
+			],
+			[
+				"age_",
+				"age_1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "l40.py",
+			"settings":
+			{
+				"buffer_size": 12,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "import bs4"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Changelog"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/textFile"
+	],
+	"file_history":
+	[
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson41.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson40.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson39.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l39.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l38-mapit.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l38-mapit.bat",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l37-buggyAddingProgram.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/test.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson37.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson36.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson35.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l36.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l35-box.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l35.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l35-traffic.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l34.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l33.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/lesson31.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson33.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l32-dryrun.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l32.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l31.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/textFile/helloworld.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l30-size.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l30.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson30.txt",
+		"/C/Users/account/Documents/health/bp.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l29-phoneAndEmail.py",
+		"/C/Users/account/Downloads/examplePhoneEmailDirectory.pdf",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l28.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/l28.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson28.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l27.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson27.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson26.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l26-lyrics.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson25.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/l24.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson24.text",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/scriptsAndPrograms/script.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/recap/lesson23.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l22-users.bat",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l22-helloworld.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/lesson22.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l21.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l20.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/lesson20.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l19.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/lesson19.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l18.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/17.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l17-characterCount.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/lesson17.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l16-example.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l16.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/lesson16.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l15.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/lesson15.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l14.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/lesson14.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l13-lists.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/README.md",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/lesson13.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/guess.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l11-example.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/lesson10.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l10-example.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/lesson9.txt",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l9-magic8ball.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l9-plus_one.py",
+		"/C/Users/account/Documents/github/learning/automate-the-boring-stuff/l9-hello_function.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/lesson8.txt",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l8-sysexit.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l7-fiveTimesFor.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/lesson7.txt",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l7-fiveTimes.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l7-calculation.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l6-yourName.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l6-yourNameSpam.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l6-while_example.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/lesson6.txt",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/lesson3.txt",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/lession5.txt",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l5-if-example.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l5-elif_example.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l5-if_else_example.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/l5-if_example.py",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/lesson1.txt",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/lession2.txt",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/lesson4.txt",
+		"/C/Users/account/Documents/github/learning/automate_boring_stuff/hello.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/further_reading.txt",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/hidden_ssid.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/new_mac.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/md5crack.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/subdomain.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/requests_and_beautifulsoup.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/floodz.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/client.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/server.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/grabber.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/nmapscanner.py",
+		"/C/Users/account/Documents/github/Learning/python_for_pentesters/inforecon.py",
+		"/C/Users/account/Documents/github/Learning/python3/section20/qt.txt",
+		"/C/Users/account/Documents/github/Learning/python3/section19/facial_detection.py",
+		"/C/Users/account/Documents/github/Learning/python3/section19/edit.py",
+		"/C/Users/account/Documents/github/Learning/python3/section19/brightness.py",
+		"/C/Users/account/Documents/github/Learning/python3/section19/rectangle.py",
+		"/C/Users/account/Documents/github/Learning/python3/section19/numbers.txt",
+		"/C/Users/account/Documents/github/Learning/python3/section19/introtoopencv.txt",
+		"/C/Users/account/Documents/github/Learning/python3/section18/linearregression.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/machine_learning.txt",
+		"/C/Users/account/Documents/github/Learning/python3/section18/stack.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/quiz18.txt",
+		"/C/Users/account/Documents/github/Learning/python3/section18/diagram.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/matplotlib1.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/numpy1.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/matplotlib.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/exercise.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/pandas_excel_matplotlib.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/filterdata.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/pandasintro.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/hownumpyworks.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/multidimensional.py",
+		"/C/Users/account/Documents/github/Learning/python3/section18/filterarrays.py",
+		"/C/Users/account/Documents/github/Learning/python3/README.md",
+		"/C/Users/account/Documents/github/Learning/python3/section6/graphics.py",
+		"/C/Users/account/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 160.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "l40.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import bs4",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 134.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "test.py",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
